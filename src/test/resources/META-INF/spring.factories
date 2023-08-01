@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory = com.kosasih.\
+    agricorp.config.TestContainersSpringContextCustomizerFactory,com.kosasih.\
+    agricorp.config.SqlTestContainersSpringContextCustomizerFactory,com.kosasih.\
+    agricorp.config.KafkaTestContainersSpringContextCustomizerFactory
